@@ -1,12 +1,12 @@
 # Hi, I'm Prabhjot Bhatia
 
-I build practical AI systems and full-stack products — from RL environments and vision pipelines to voice and mobile apps. I care about clear problem framing and demos that actually work.
+I build practical AI systems and full-stack products - from RL environments and vision pipelines to voice and mobile apps. I care about clear problem framing and demos that actually work.
 
 ---
 
 ## Featured public work
 
-### [OpenEnv — ProcureEnv](https://github.com/Prabhjotbh/OpenEnv-Hackthon)
+### [OpenEnv - ProcureEnv](https://github.com/Prabhjotbh/OpenEnv-Hackthon)
 **Reinforcement learning environment** for industrial equipment procurement.
 
 - Models high-stakes sourcing (certs, deception traps, negotiation) as reusable RL tasks with clear episode APIs
@@ -21,7 +21,7 @@ I build practical AI systems and full-stack products — from RL environments an
 - Stack: TypeScript · React · Vite · Tailwind · shadcn/ui · React Query
 
 ### [Soteria](https://github.com/Prabhjotbh/Soteria)
-**NASA Space Apps Challenge 2023** — assistance for aerospace technical requirements.
+**NASA Space Apps Challenge 2023** - assistance for aerospace technical requirements.
 
 - Built under tight hackathon constraints with a focus on spotting gaps in requirement sets
 - Stack: Python
@@ -38,9 +38,9 @@ I build practical AI systems and full-stack products — from RL environments an
 
 Real product and collaboration work. Source stays private.
 
-### Kyvo — collaboration
+### Kyvo - collaboration
 
-**Kyvo web — procurement search UI**
+**Kyvo web - procurement search UI**
 - Frontend for searching and inspecting procurement results
 - Landing → results → details flows with filters and a mocked API layer for fast iteration
 - Stack: React · Vite · React Router · Tailwind · Redux Toolkit · MSW
@@ -52,36 +52,36 @@ Real product and collaboration work. Source stays private.
 
 ### Owned private work
 
-**The Interior Library (Kyvo-TIL) — fabric visualiser**
+**The Interior Library (Kyvo-TIL) - fabric visualiser**
 - Preview fabric on furniture or curtains from a room photo without a reshoot
 - Full-stack MVP: before/after slider, session history, rate limits, swappable image/storage providers
 - Stack: React 19 · TypeScript · Vite · Tailwind · FastAPI · OpenAI image edits
 
-**Vocharya — voice-first learning companion**
+**Vocharya - voice-first learning companion**
 - Learning product built around trusted voices instead of sterile e-learning
 - Voice studio, virtual classroom, expert archetypes, adaptive onboarding
 - Stack: Next.js · Groq / Llama 3 · ElevenLabs · Tailwind · Framer Motion
 
-**Prabh-bot — multi-app creative site**
+**Prabh-bot - multi-app creative site**
 - Several interactive experiments under one deployable surface
 - Routed apps (QR Cube, Number Crush, landing) with shared Vercel build/deploy
 - Stack: JavaScript · Vite · three.js · Vercel serverless
 
-**Navigate / Forge Compass — multi-agent navigation assistant**
+**Navigate / Forge Compass - multi-agent navigation assistant**
 - Turns a query into staged web-navigation guidance
 - Three-agent pipeline: page intelligence → journey planner → action/response
 - Stack: Next.js · TypeScript · Tailwind · Radix · Lyzr Architect
 
-**Echo — voice-native social app**
+**Echo - voice-native social app**
 - Mobile UX for ambient and conversational voice moments
 - Voice bubbles, waveforms, discover feed, Supabase persistence
 - Stack: React Native · Expo · TypeScript · Supabase
 
-**Qore-sync — cyber-bio health tracker**
+**Qore-sync - cyber-bio health tracker**
 - Wearable / vitals dashboard with draggable neon widgets (HR, SpO₂, sleep, activity)
 - Stack: React Native · Expo · Reanimated · Gesture Handler
 
-**STeRG HSI learning — hyperspectral ML**
+**STeRG HSI learning - hyperspectral ML**
 - Jupyter experiments on hyperspectral imaging for quality / classification tasks
 - Stack: Python · Jupyter · applied ML
 
@@ -101,7 +101,6 @@ Real product and collaboration work. Source stays private.
 
 - Shipping applied AI prototypes (procurement RL, image and voice products)
 - Collaborating on Kyvo (web + vision)
-- Open to roles where product sense and systems depth both matter
 
 ---
 
